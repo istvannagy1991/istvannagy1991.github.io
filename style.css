@@ -1,0 +1,35 @@
+body{
+    position: fixed;   
+    background: grey;
+}
+#big{
+    margin: 100px 300px;
+    display: flex;
+    height: 400px;
+    width: 800px;
+    margin-bottom: 0;
+}
+img{
+    width: 700px;
+}
+button{
+    width: 50px;
+    font-size: 50px;
+    justify-content: center;
+}
+#small{
+    list-style-type: none;
+    display:flex;
+    background: white;
+    margin-left: 300px;
+    margin-right: 430px;
+    margin-top: 20px;
+    width: 750px;
+    height: 100px;  
+}
+.li{
+    display: flex;
+}
+
+
+
